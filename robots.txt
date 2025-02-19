@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igynua.csgad.com/qGd/sitemap.xml.gz
